@@ -1,1 +1,4 @@
-# exercicios-java-generation
+# Exercícios de Lógica utilizando a Linguagem Java.
+
+Generation Brasil
+
